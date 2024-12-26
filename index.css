@@ -1,0 +1,771 @@
+.portfolio-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.portfolio-portfolio {
+  width: 100%;
+  height: 9351px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-end;
+  flex-shrink: 0;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 1);
+}
+ 
+.portfolio-text100 {
+  top: 11px;
+  left: 1396px;
+  color: rgba(136, 133, 133, 1);
+  width: 170px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.portfolio-screenshot20241206194722 {
+  top: -7px;
+  left: 0px;
+  width: 1601px;
+  height: 1089px;
+  opacity: 0.50;
+  position: absolute;
+}
+ 
+.portfolio-text101 {
+  top: 537px;
+  left: 340px;
+  color: rgba(184, 183, 183, 1);
+  width: 920px;
+  height: auto;
+  position: absolute;
+  font-size: 75px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Fredoka One;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.portfolio-rectangle1 {
+  top: 1069px;
+  left: -2px;
+  width: 1603px;
+  height: 596px;
+  position: absolute;
+}
+ 
+.portfolio-text105 {
+  top: 1129px;
+  left: -28px;
+  color: rgba(255, 255, 255, 1);
+  width: 350px;
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Freeman;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.portfolio-text106 {
+  top: 4891px;
+  left: -2px;
+  color: rgba(255, 255, 255, 1);
+  width: 443px;
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Freeman;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+ 
+.portfolio-text107 {
+  top: 754px;
+  left: 156px;
+  color: rgba(255, 255, 255, 1);
+  width: 166px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Fredericka the Great;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+ 
+.portfolio-text108 {
+  top: 805px;
+  left: 721px;
+  color: rgba(255, 255, 255, 1);
+  width: 158px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Fredericka the Great;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+ 
+.portfolio-text109 {
+  top: 754px;
+  left: 1169px;
+  color: rgba(255, 255, 255, 1);
+  width: 222px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Fredericka the Great;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+ 
+.portfolio-text110 {
+  top: 1255px;
+  left: 92px;
+  color: rgba(255, 255, 255, 1);
+  width: 822px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Rajdhani;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.portfolio-mottamaadi {
+  top: 1241px;
+  left: 1022px;
+  width: 551px;
+  height: 330px;
+  position: absolute;
+}
+ 
+.portfolio-screenshot202412062152071 {
+  top: 5003px;
+  left: 610px;
+  width: 312px;
+  height: 464px;
+  position: absolute;
+  text-decoration: none;
+}
+ 
+.portfolio-navlink1 {
+  display: contents;
+}
+ 
+.portfolio-screenshot202412062200531 {
+  top: 5046px;
+  left: 23px;
+  width: 410px;
+  height: 490px;
+  position: absolute;
+  text-decoration: none;
+}
+ 
+.portfolio-navlink2 {
+  display: contents;
+}
+ 
+.portfolio-thicki1 {
+  top: 5003px;
+  left: 1124px;
+  width: 359px;
+  height: 651px;
+  position: absolute;
+  text-decoration: none;
+}
+ 
+.portfolio-rectangle2 {
+  top: 1752px;
+  left: 0px;
+  width: 1573px;
+  height: 3090px;
+  position: absolute;
+}
+ 
+.portfolio-rectangle3 {
+  top: 5639px;
+  left: -2px;
+  width: 1573px;
+  height: 900px;
+  position: absolute;
+}
+ 
+.portfolio-text111 {
+  top: 5663px;
+  left: 9px;
+  color: rgba(255, 255, 255, 1);
+  width: 350px;
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Freeman;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.portfolio-restaura {
+  top: 5816px;
+  left: 101px;
+  width: 366px;
+  height: 355px;
+  position: absolute;
+}
+ 
+.portfolio-text112 {
+  top: 5767px;
+  color: rgb(255, 255, 255);
+  right: 43px;
+  width: 879px;
+  height: auto;
+  position: absolute;
+  font-size: 36px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Freeman;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.portfolio-text113 {
+  text-decoration: underline;
+}
+ 
+.portfolio-text114 {
+  text-decoration: none;
+}
+ 
+.portfolio-text117 {
+  text-decoration: underline;
+}
+ 
+.portfolio-text121 {
+  font-size: 32px;
+  font-family: "Georgia";
+}
+ 
+.portfolio-text122 {
+  font-size: 32px;
+  font-family: "Georgia";
+}
+ 
+.portfolio-text123 {
+  font-size: 32px;
+  font-family: "Georgia";
+}
+ 
+.portfolio-text124 {
+  font-size: 32px;
+  font-family: "Georgia";
+}
+ 
+.portfolio-text125 {
+  font-size: 32px;
+  font-family: "Georgia";
+}
+ 
+.portfolio-text126 {
+  font-size: 32px;
+  font-family: "Georgia";
+}
+ 
+.portfolio-text127 {
+  font-size: 32px;
+  font-family: "Georgia";
+}
+ 
+.portfolio-text128 {
+  font-size: 32px;
+  font-family: "Georgia";
+}
+ 
+.portfolio-text129 {
+  font-size: 32px;
+  font-family: "Georgia";
+}
+ 
+.portfolio-text130 {
+  font-size: 32px;
+  font-family: "Georgia";
+}
+ 
+.portfolio-text131 {
+  font-size: 32px;
+  font-family: "Georgia";
+}
+ 
+.portfolio-text132 {
+  font-size: 32px;
+  font-family: "Georgia";
+}
+ 
+.portfolio-text133 {
+  font-size: 32px;
+  font-family: "Georgia";
+}
+ 
+.portfolio-text134 {
+  font-size: 32px;
+  font-family: "Georgia";
+}
+ 
+.portfolio-text135 {
+  font-size: 32px;
+  font-family: "Georgia";
+}
+ 
+.portfolio-text136 {
+  font-size: 32px;
+  font-family: "Georgia";
+}
+ 
+.portfolio-text137 {
+  font-size: 32px;
+  font-family: "Georgia";
+}
+ 
+.portfolio-text138 {
+  font-size: 32px;
+  font-family: "Georgia";
+}
+ 
+.portfolio-text139 {
+  font-size: 32px;
+  font-family: "Georgia";
+}
+ 
+.portfolio-text140 {
+  font-size: 32px;
+  font-family: "Georgia";
+}
+ 
+.portfolio-text141 {
+  font-size: 32px;
+  font-family: "Georgia";
+}
+ 
+.portfolio-text142 {
+  font-size: 32px;
+  font-family: "Georgia";
+}
+ 
+.portfolio-text143 {
+  font-size: 32px;
+  font-family: "Georgia";
+}
+ 
+.portfolio-text144 {
+  font-size: 32px;
+  font-family: "Georgia";
+}
+ 
+.portfolio-text145 {
+  font-size: 32px;
+  font-family: "Georgia";
+}
+ 
+.portfolio-text146 {
+  font-size: 32px;
+  font-family: "Georgia";
+}
+ 
+.portfolio-sleepysloth {
+  top: 6245px;
+  left: 20px;
+  width: 583px;
+  height: 319px;
+  position: absolute;
+}
+ 
+.portfolio-text147 {
+  top: 2845px;
+  left: 39px;
+  color: rgb(255, 255, 255);
+  width: 1217px;
+  height: auto;
+  position: absolute;
+  font-size: 34px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Jersey 25;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.portfolio-text148 {
+  font-size: 64px;
+  font-style: normal;
+  font-family: "Roboto";
+  font-weight: 700;
+  text-decoration: underline;
+}
+ 
+.portfolio-text180 {
+  top: 3831px;
+  left: 413px;
+  color: rgb(255, 255, 255);
+  width: 1145px;
+  height: auto;
+  position: absolute;
+  font-size: 34px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Jersey 25;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.portfolio-text181 {
+  font-size: 64px;
+  font-style: normal;
+  font-family: "Roboto";
+  font-weight: 700;
+  text-decoration: underline;
+}
+ 
+.portfolio-sidethic {
+  top: 3849px;
+  left: -22px;
+  width: 435px;
+  height: 726px;
+  position: absolute;
+}
+ 
+.portfolio-rectangle8 {
+  top: 6638px;
+  left: 0px;
+  width: 1571px;
+  height: 1607px;
+  position: absolute;
+}
+ 
+.portfolio-predictive-maintenancefor-equipmentlogo1 {
+  top: 7325px;
+  left: 75px;
+  width: 301px;
+  height: 299px;
+  position: absolute;
+}
+ 
+.portfolio-predictive-maintenancefor-equipmentlogo2 {
+  top: 7800px;
+  left: 1218px;
+  width: 301px;
+  height: 299px;
+  position: absolute;
+}
+ 
+.portfolio-text215 {
+  top: 6691px;
+  left: 23px;
+  color: rgba(255, 255, 255, 1);
+  width: 350px;
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Freeman;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+ 
+.portfolio-text216 {
+  top: 8322px;
+  left: 23px;
+  color: rgba(255, 255, 255, 1);
+  width: 350px;
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Freeman;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+ 
+.portfolio-text217 {
+  top: 6898px;
+  left: 37px;
+  color: rgb(255, 255, 255);
+  width: 943px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Freeman;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.portfolio-text221 {
+  font-size: 36px;
+  font-family: "Georgia";
+}
+ 
+.portfolio-text222 {
+  top: 7342px;
+  left: 571px;
+  color: rgb(255, 255, 255);
+  width: 943px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Freeman;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.portfolio-text226 {
+  font-size: 36px;
+  font-family: "Georgia";
+}
+ 
+.portfolio-text227 {
+  top: 7795px;
+  left: 37px;
+  color: rgb(255, 255, 255);
+  width: 943px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Freeman;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.portfolio-text231 {
+  font-size: 36px;
+  font-family: "Georgia";
+}
+ 
+.portfolio-ai-enhanced-personal-project-recommender-systemlogo {
+  top: 6885px;
+  left: 1218px;
+  width: 301px;
+  height: 299px;
+  position: absolute;
+}
+ 
+.portfolio-text232 {
+  left: 74px;
+  color: rgb(255, 255, 255);
+  width: 674px;
+  bottom: 646px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Jersey 25;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.portfolio-text233 {
+  text-decoration: underline;
+}
+ 
+.portfolio-screenshot20241225155150 {
+  top: 8756px;
+  left: 1241px;
+  width: 278px;
+  height: 209px;
+  position: absolute;
+}
+ 
+.portfolio-text238 {
+  top: 2039px;
+  color: rgb(255, 255, 255);
+  right: 19px;
+  width: 1152px;
+  height: auto;
+  position: absolute;
+  font-size: 34px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Jersey 25;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.portfolio-text239 {
+  font-size: 64px;
+  font-style: normal;
+  font-family: "Roboto";
+  font-weight: 700;
+  text-decoration: underline;
+}
+ 
+.portfolio-new-page {
+  top: -4519.30078125px;
+  left: -3529.203369140625px;
+  width: 1440px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.portfolio-sidera {
+  top: 1961px;
+  left: -37px;
+  width: 373px;
+  height: 732px;
+  position: absolute;
+}
+ 
+.portfolio-text267 {
+  top: 1827px;
+  left: -8px;
+  color: rgba(255, 255, 255, 1);
+  width: 746px;
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Freeman;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: underline;
+}
+ 
+.portfolio-sidevk {
+  top: 2718px;
+  right: 33px;
+  width: 607px;
+  height: 860px;
+  position: absolute;
+}
+ 
+.portfolio-text268 {
+  left: 74px;
+  color: rgb(255, 255, 255);
+  width: 711px;
+  bottom: 60px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Jersey 25;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.portfolio-text269 {
+  text-decoration: underline;
+}
+ 
+.portfolio-text274 {
+  left: 76px;
+  color: rgb(255, 255, 255);
+  width: 711px;
+  bottom: 354px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Jersey 25;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.portfolio-text275 {
+  text-decoration: underline;
+}
+ 
+.portfolio-screenshot20241225155337 {
+  left: 1014px;
+  width: 227px;
+  bottom: 704px;
+  height: 217px;
+  position: absolute;
+}
+ 
+.portfolio-screenshot20241225154740 {
+  left: 1014px;
+  width: 227px;
+  bottom: 60px;
+  height: 250px;
+  position: absolute;
+}
